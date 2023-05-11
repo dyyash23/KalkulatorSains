@@ -9,9 +9,9 @@ import streamlit.components.v1 as components
 
 st.sidebar.markdown("**Nama Kelompok**")
 st.sidebar.markdown("**Bintang Fadillah**")
-st.sidebar.markdown("**Daviq Panji**")
+st.sidebar.markdown("**Daviq Panji P.**")
 st.sidebar.markdown("**Diyah Astika**")
-st.sidebar.markdown("**Nazwa Salsabilla**")
+st.sidebar.markdown("**Nazwa Salsabilla C.**")
 st.sidebar.markdown("**Yulia Oktaviyenti**")
 
 st.sidebar.markdown("**REFERENCE USAGE**")
