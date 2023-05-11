@@ -23,7 +23,7 @@ st.sidebar.markdown("**sum Eg. sum(1, 4, 2n)**")
 
 
 st.title("Streamlit - Scientific Calculator")
-components.iframe("https://kalker.strct.net/kalk", width=800, height=250)
+components.iframe("https://kalker.strct.net/kalk", width=1000, height=300)
 st.markdown("__________________________________________________________________________________")
 
 c1,c2,c3,c4,c5,c6,c7,c8,c9,c10,buffer,c11,c12,=st.columns(13)
