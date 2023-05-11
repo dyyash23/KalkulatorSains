@@ -14,6 +14,8 @@ st.sidebar.markdown("**Diyah Astika**")
 st.sidebar.markdown("**Nazwa Salsabilla C.**")
 st.sidebar.markdown("**Yulia Oktaviyenti**")
 
+st.sidebar.markdown("**-------------------------------------------**")
+
 st.sidebar.markdown("**REFERENCE USAGE**")
 st.sidebar.markdown("**! Factorial, eg. 5! gives 120,( jadi () **")
 st.sidebar.markdown("**% Percent, eg. 5% jadi 0.05, 10 + 50% jadi 15 **")
