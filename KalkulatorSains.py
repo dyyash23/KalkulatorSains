@@ -7,6 +7,13 @@
 import streamlit as st
 import streamlit.components.v1 as components
 
+st.sidebar.markdown("**Nama Kelompok**")
+st.sidebar.markdown("**Bintang Fadillah**")
+st.sidebar.markdown("**Daviq Panji**")
+st.sidebar.markdown("**Diyah Astika**")
+st.sidebar.markdown("**Nazwa Salsabilla**")
+st.sidebar.markdown("**Yulia Oktaviyenti**")
+
 st.sidebar.markdown("**REFERENCE USAGE**")
 st.sidebar.markdown("**! Factorial, eg. 5! gives 120,( jadi () **")
 st.sidebar.markdown("**% Percent, eg. 5% jadi 0.05, 10 + 50% jadi 15 **")
